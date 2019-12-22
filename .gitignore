@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/SampleApp.API/v15
+/SampleApp.API/obj
+/.vs/ASP.NETCore.Swagger/v15
+/.vs
+/WebAPICore.Swagger/bin
+/WebAPICore.Swagger/obj
